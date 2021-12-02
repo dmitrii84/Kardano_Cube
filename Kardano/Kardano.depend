@@ -1,5 +1,12 @@
 # depslib dependency file v1.0
-1637785828 source:g:\7 semestr\kpo\kpoproject\kardano\main.cpp
+1638403344 source:g:\7 semestr\kpo\kpoproject\kardano\main.cpp
+	<iostream>
+	<locale.h>
+	<math.h>
+	<fstream>
+	<iomanip>
+
+1637839374 source:d:\7 semestr\kpo\kpoproject\kardano\main.cpp
 	<iostream>
 	<locale.h>
 	<math.h>
